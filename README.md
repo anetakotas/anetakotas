@@ -1,6 +1,13 @@
 # Hi, I'm Aneta!
 I am a first year student at National College of Ireland and I am passionate about coding! I love learning and finding new challenges which can broaden my knowledge.
 
+## I know a bit of:
+- Java
+- HTML
+- CSS
+- SASS
+- SQL
+
 ## My interests:
 - Coding
 - Art
