@@ -13,7 +13,7 @@ I am a first year student at National College of Ireland and I am passionate abo
 - Art
 - Reading
 
-If you think we can connect and create something together, feel free to message me!
+### If you think we can connect and create something together, feel free to message me!
 
 <!--
 **anetakotas/anetakotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
