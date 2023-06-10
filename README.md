@@ -1,4 +1,5 @@
-# andomdas
+# Hi, I'm Aneta!
+I am a first year student at National College of Ireland and I am passionate about coding!
 
 <!--
 **anetakotas/anetakotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
