@@ -7,6 +7,7 @@ I am a first year student at National College of Ireland and I am passionate abo
 - CSS
 - SASS
 - SQL
+- Javascript
 
 ## My interests:
 - Coding
